@@ -5,4 +5,4 @@
 * olive oil 
 * salt
 ## Instructions
-* Wring the chickpeas
+* Wring the chickpeas and crush them
